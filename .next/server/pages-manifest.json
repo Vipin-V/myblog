@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/College_Stuffs/MCimp": "pages/College_Stuffs/MCimp.js",
+  "/Cheat_sheets/cheat-sheet-git": "pages/Cheat_sheets/cheat-sheet-git.js",
+  "/Books/48-laws-of-power": "pages/Books/48-laws-of-power.js",
+  "/": "pages/index.js"
+}

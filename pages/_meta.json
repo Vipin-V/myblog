@@ -1,0 +1,17 @@
+{
+  "index": "Home Page",
+  "College_Stuffs": "College Stuffs",
+  "Anime": "Anime",
+  
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ",
+    "type": "page",
+    "href": "https://vipinv.xyz/",
+    "newWindow": true
+  }
+  
+}
