@@ -8,7 +8,7 @@
 
 <div>
  <div>
-  <Image src="/haruhiro.png" alt="Hello" width={500} height={500} align="left" />
+  
   <p align="right">
 
 <h2> ✨ Welcome to my Blog</h2>
@@ -27,13 +27,9 @@
    
   </p>
  </div>
+ <Image src="/haruhiro.png" alt="Hello" width={500} height={500} align="left" />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br><br>
-<!-- 
-<div>
- <div>
-  <Image src="/mary.png" alt="Hello" width={500} height={500} align="center"/>
-  
- </div>
-</div> -->
+<br><br><br><br>
