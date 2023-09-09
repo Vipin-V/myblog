@@ -135,7 +135,7 @@ VLANs are a powerful tool that can be used to improve the security, performance,
 
 The IPv4 diagram format is a visual representation of the IPv4 datagram header. The header contains 14 fields, each of which contains important information about the datagram. The fields are:
 
-![Ipv4](../assets/ipv4.png)
+<!-- ![Ipv4](../assets/ipv4.png) -->
 
 - **Version**: This field indicates the version of the IP protocol used to create the datagram. For IPv4, the version number is 4.
 - **Internet Header Length (IHL)**: This field indicates the length of the IPv4 header in 32-bit words. The minimum value is 5, and the maximum value is 15.

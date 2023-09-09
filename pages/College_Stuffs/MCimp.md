@@ -14,7 +14,7 @@
 
 ## **2) Avr Architecture**
 
-![Untitled](/assets/MCimp/Untitled.png)
+<!-- ![Untitled](/assets/MCimp/Untitled.png) -->
 
 The AVR architecture is a Harvard architecture, which means that it has separate memory buses for instructions and data. This allows the AVR to execute instructions and access data at the same time, which improves performance.
 
@@ -53,7 +53,7 @@ The AVR's data memory is a powerful tool that can be used to store variables, da
 
 ## **4) Harvard Architecture**
 
-![HA](/assets/MCimp/HarvardArchitecture.png)
+<!-- ![HA](/assets/MCimp/HarvardArchitecture.png) -->
 
 Harvard architecture is a type of computer architecture that separates the memory for instructions (program memory) from the memory for data. This allows the CPU to access instructions and data simultaneously, which can improve performance.
 

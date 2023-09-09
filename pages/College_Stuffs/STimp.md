@@ -25,7 +25,7 @@
 
 ## 2. Software Testing Lifecycle (STLC)
 
-![STLC](/assets/STimp/Untitled.png)
+<!-- ![STLC](/assets/STimp/Untitled.png) -->
 
 Software testing lifecycle (STLC) is a process that ensures that the quality standards are met by conducting tests systematically over several phases. During product development, phases of the STLC may be performed multiple times until a product is deemed suitable for release.
 
@@ -101,7 +101,7 @@ These are just a few of the many commercial testing tools available. There are m
 
 ## 5. Debugging process
 
-![Untitled](/assets/STimp/Untitled%201.png)
+<!-- ![Untitled](/assets/STimp/Untitled%201.png) -->
 
 Debugging is the process of finding and fixing errors or bugs in the source code of any software. When software does not work as expected, computer programmers study the code to determine why any errors occurred. They use debugging tools to run the software in a controlled environment, check the code step by step, and analyze and fix the issue.
 

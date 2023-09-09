@@ -131,7 +131,7 @@ The Android architecture is designed to be modular and flexible, which allows it
 
 Here is a diagram that shows the Android architecture:
 
-![Untitled](SDP%20imp%20Notes%20(VipJet)%2078d0f322425742b9bff34aa9ffe83ef3/Untitled.png)
+<!-- ![Untitled](SDP%20imp%20Notes%20(VipJet)%2078d0f322425742b9bff34aa9ffe83ef3/Untitled.png) -->
 
 The diagram shows how the different layers of the Android architecture interact with each other. The Linux kernel is at the bottom of the diagram, and it provides the basic services that all other layers rely on. The HAL sits on top of the Linux kernel, and it provides a layer of abstraction between the Android software and the underlying hardware. ART sits on top of the HAL, and it provides a more efficient and secure runtime environment for Android apps. The Android framework sits on top of ART, and it provides a set of APIs that developers use to build Android apps. Applications sit on top of the Android framework, and they are the software that users interact with on their Android devices.
 
@@ -248,7 +248,7 @@ Intents are messaging objects used to communicate between components. They can b
 
 ## 13. Activity Lifecycle
 
-![Untitled](SDP%20imp%20Notes%20(VipJet)%2078d0f322425742b9bff34aa9ffe83ef3/Untitled%201.png)
+<!-- ![Untitled](SDP%20imp%20Notes%20(VipJet)%2078d0f322425742b9bff34aa9ffe83ef3/Untitled%201.png) -->
 
 The activity lifecycle in Android refers to the series of states and callbacks that an activity goes through during its lifetime. Understanding the activity lifecycle is crucial for properly managing the behavior and resources of an activity. The lifecycle consists of several key methods that are called at different stages of the activity's existence. Here is an overview of the main stages of the activity lifecycle:
 
