@@ -1,3 +1,19 @@
+---
+title: 48 Laws of Power by Robert Greene
+date: 2020-12-25 20:22:47
+background: bg-[#3473b5]
+tags:
+    - manupulation
+    - book
+    - psychology
+categories:
+    - Psychology book
+intro: |
+    This is a book which will teach you psychology of manipulation
+plugins:
+    - copyCode
+---
+
 # 48 Laws of Power -- Robert Greene
 
 1. Never Outshine the Master.

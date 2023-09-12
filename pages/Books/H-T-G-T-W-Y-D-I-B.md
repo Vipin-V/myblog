@@ -1,4 +1,4 @@
-# HOW TO GET THE WOMEN YOU DESIRE INTO BED 
+# H T G T W Y D I B 
 
 A Down And Dirty Guide To Dating And Seduction For The Man Who's Fed Up With Being Mr. Nice Guy. 
 
