@@ -27,7 +27,7 @@ WhoamI: Computer Engineer. Also Artist (more or less).
 OS: Archcraft OS.
 Shell: zsh 5.8
 Telegram: @CozmoKun.
-Website: vipinv.xyz
+Website: vipinv.me
 FavouriteAnime: 五等分の花嫁 (The Quintessential Quintuplets)📕
 Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), Videogames 🎮, To play my piano 🎹.
 Pronouns: He-Him.
