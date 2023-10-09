@@ -1,5 +1,6 @@
 # Flutter D-BugTag Removal
 
+```
 debug tag removal  "MaterialApp(
   debugShowCheckedModeBanner: false,
 
@@ -9,3 +10,4 @@ debug tag removal  "MaterialApp(
     ),
   ),  
 );"
+```
