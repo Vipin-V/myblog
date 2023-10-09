@@ -1,7 +1,8 @@
 # Flutter D-BugTag Removal
 
-```
-debug tag removal  "MaterialApp(
+### Just add ``` debugShowCheckedModeBanner: false, ```  in ur code
+```dart
+MaterialApp(
   debugShowCheckedModeBanner: false,
 
   home: Scaffold(
@@ -9,5 +10,5 @@ debug tag removal  "MaterialApp(
       title: const Text('Home'),
     ),
   ),  
-);"
+);
 ```
