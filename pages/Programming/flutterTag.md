@@ -1,4 +1,4 @@
-# Flutter D-BugTag Removal
+# Flutter DeBugTag Removal
 
 ### Just add ``` debugShowCheckedModeBanner: false, ```  in ur code
 ```dart
